@@ -6,4 +6,4 @@
 - [x] Web scraping with gazpacho </br>
   -> [IMDB_web_scraping](./Python_web_scraping.ipynb)🎥 </br>
 - [x] Web scraping with beautifulsoup and selenium </br>
-  -> [Shopee_web_scraping](/.Python_shopee_web_scraping.ipynb)
+  -> [Shopee_web_scraping](./Python_shopee_web_scraping.ipynb)
